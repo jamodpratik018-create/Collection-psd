@@ -1,0 +1,13 @@
+@font-face {
+    font-family:'ProximaNova-LightIt';
+    src: url('../fonts/ProximaNova-LightIt.eot');
+    src: url('../fonts/ProximaNova-LightIt.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ProximaNova-LightIt.woff2') format('woff2'),
+        url('../fonts/ProximaNova-LightIt.woff') format('woff'),
+        url('../fonts/ProximaNova-LightIt.ttf') format('truetype'),
+        url('../fonts/ProximaNova-LightIt.svg#ProximaNova-LightIt') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
